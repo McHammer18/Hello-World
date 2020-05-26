@@ -1,2 +1,3 @@
 # Hello-World
-Place that stores ideas for projects
+Hello I am Morgan
+I enjoy coding and being outside in my free time
